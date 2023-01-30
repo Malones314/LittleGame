@@ -1,0 +1,22 @@
+﻿  Backpacking.cpp
+  Boss.cpp
+  Dungeon.cpp
+E:\MyCandCPPSpace\VisualStudio\Dungeon\Dungeon\Dungeon.cpp(151,50): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\MyCandCPPSpace\VisualStudio\Dungeon\Dungeon\Dungeon.cpp(152,52): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\MyCandCPPSpace\VisualStudio\Dungeon\Dungeon\Dungeon.cpp(153,45): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\MyCandCPPSpace\VisualStudio\Dungeon\Dungeon\Dungeon.cpp(154,57): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\MyCandCPPSpace\VisualStudio\Dungeon\Dungeon\Dungeon.cpp(155,50): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\MyCandCPPSpace\VisualStudio\Dungeon\Dungeon\Dungeon.cpp(452,70): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+E:\MyCandCPPSpace\VisualStudio\Dungeon\Dungeon\Dungeon.cpp(657,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\MyCandCPPSpace\VisualStudio\Dungeon\Dungeon\Dungeon.cpp(665,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\MyCandCPPSpace\VisualStudio\Dungeon\Dungeon\Dungeon.cpp(667,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\MyCandCPPSpace\VisualStudio\Dungeon\Dungeon\Dungeon.cpp(827,22): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+E:\MyCandCPPSpace\VisualStudio\Dungeon\Dungeon\Dungeon.cpp(881,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  HealthPot.cpp
+  Hero.cpp
+  Human.cpp
+  Monster.cpp
+  Shield.cpp
+  Sword.cpp
+  正在生成代码...
+  Dungeon.vcxproj -> E:\MyCandCPPSpace\VisualStudio\Dungeon\x64\Debug\Dungeon.exe

@@ -1,0 +1,13 @@
+﻿  Dungeon.cpp
+D:\MyCandCPPSpace\VisualStudio\Dungeon\Dungeon\Dungeon.cpp(151,50): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\MyCandCPPSpace\VisualStudio\Dungeon\Dungeon\Dungeon.cpp(152,52): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\MyCandCPPSpace\VisualStudio\Dungeon\Dungeon\Dungeon.cpp(153,45): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\MyCandCPPSpace\VisualStudio\Dungeon\Dungeon\Dungeon.cpp(154,57): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\MyCandCPPSpace\VisualStudio\Dungeon\Dungeon\Dungeon.cpp(155,50): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\MyCandCPPSpace\VisualStudio\Dungeon\Dungeon\Dungeon.cpp(450,70): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+D:\MyCandCPPSpace\VisualStudio\Dungeon\Dungeon\Dungeon.cpp(655,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\MyCandCPPSpace\VisualStudio\Dungeon\Dungeon\Dungeon.cpp(663,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\MyCandCPPSpace\VisualStudio\Dungeon\Dungeon\Dungeon.cpp(665,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\MyCandCPPSpace\VisualStudio\Dungeon\Dungeon\Dungeon.cpp(825,22): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\MyCandCPPSpace\VisualStudio\Dungeon\Dungeon\Dungeon.cpp(879,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Dungeon.vcxproj -> D:\MyCandCPPSpace\VisualStudio\Dungeon\Debug\Dungeon.exe
