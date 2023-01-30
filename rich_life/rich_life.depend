@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1599050866 source:d:\mycandcppspace\cpp'homework\rich_life\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<rich_life.h>
+	<commodity.h>
+
+1599050826 d:\mycandcppspace\cpp'homework\rich_life\include\rich_life.h
+
+1599050826 source:d:\mycandcppspace\cpp'homework\rich_life\src\rich_life.cpp
+	"rich_life.h"
+	<bits/stdc++.h>
+
+1598248631 d:\mycandcppspace\cpp'homework\rich_life\include\commodity.h
+
+1598249052 source:d:\mycandcppspace\cpp'homework\rich_life\src\commodity.cpp
+	"commodity.h"
+
